@@ -1,0 +1,6 @@
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\bin\AccountServices.dll.config
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\bin\AccountServices.dll
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\bin\AccountServices.pdb
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\obj\Debug\AccountServices.dll
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\obj\Debug\AccountServices.pdb
+E:\VisualStudioProjects\p3\AccountServices\AccountServices\obj\Debug\AccountServices.csprojResolveAssemblyReference.cache
